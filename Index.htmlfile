@@ -1,1 +1,59 @@
-13EIOKSUMJ.mp4
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sheikh Capture 09</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #111;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #00d9ff;
+        }
+
+        .video-box {
+            margin: 25px auto;
+            max-width: 500px;
+        }
+
+        video {
+            width: 100%;
+            border-radius: 12px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Sheikh Capture 09</h1>
+    <h2>Video Editing Services</h2>
+
+    <p>Reel Editing — ₹399</p>
+    <p>Simple Video Editing — ₹199</p>
+    <p>YouTube Video Editing — ₹999</p>
+
+    <h2>My Editing Work</h2>
+
+    <div class="video-box">
+        <video controls playsinline>
+            <source src="LV%20DS%2002026%20V10%2013172806.mp4" type="video/mp4">
+            Your browser does not support video playback.
+        </video>
+    </div>
+
+    <div class="video-box">
+        <video controls playsinline>
+            <source src="A13EIOKSUMJ.mp4" type="video/mp4">
+            Your browser does not support video playback.
+        </video>
+    </div>
+
+</body>
+</html>
